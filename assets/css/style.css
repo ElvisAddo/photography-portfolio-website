@@ -315,6 +315,11 @@ button[type=submit] {
     margin-top: 10px;
 }
 
+ul, li {
+    color: white;
+    
+}
+
 /* Footer */
 footer {
     border-top: 1px solid #222;
