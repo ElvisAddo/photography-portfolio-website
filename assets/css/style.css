@@ -16,8 +16,9 @@
 }
 
 .icons{
- font-size: 18px;
+ font-size: 17px;
  color: cornflowerblue;
+ font-style: normal;
 }
 
 ul {
@@ -315,10 +316,7 @@ button[type=submit] {
     margin-top: 10px;
 }
 
-ul, li {
-    color: white;
-    
-}
+
 
 /* Footer */
 footer {
